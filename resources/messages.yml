@@ -10,6 +10,6 @@
 #
 messages:
   1: ""
-  2: "Hello {NAME}!"
-  3: "Welcome to face craft!"
+  2: "§eHello §b{NAME}!"
+  3: "§eWelcome to §bOsForce!"
 ...
